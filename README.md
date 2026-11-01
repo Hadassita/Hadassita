@@ -40,7 +40,7 @@ Aqui estão os projetos que desenvolvi na graduação. Se algum deles tiver a ve
 ### Ferramentas (nível básico)
 
 Python, OpenCV, JavaScript, C++, HTML e LaTeX.
-Design: Canva e Photoshop (celular).
+Design: Canva e Photoshop.
 
 ### Contato
 
